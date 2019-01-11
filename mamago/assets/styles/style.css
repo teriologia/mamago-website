@@ -1,0 +1,177 @@
+.iconp {
+	margin-bottom: 50px;
+	font-size: 20px;
+}
+.icons{
+	width: 100px;
+	height: 100px;
+}
+.ulicons{
+	padding-left: 0;
+}
+
+.bigicon{
+	text-align: right;
+}
+.bigicon img {
+	width: 500px;
+	display: inline-block;
+}
+
+.h1icon
+{
+	padding-top: 175px;
+}
+.logo
+{
+	text-align: center;
+}
+.logo img{
+	display: inline-block;
+	width: 300px;
+}
+
+.advantages{
+	margin-top: 20px;
+}
+
+.strongstyle
+{
+	text-align: right;
+	vertical-align: bottom;
+	padding-left: 10px;
+	font-size: 12px;
+}
+
+.rowmarg
+{
+	margin-top: 50px;
+}
+.rowmargin
+{
+	margin-top: 50px;
+}
+.fluids
+{
+	background-color: #333740
+}
+.h4icons
+{
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	margin-bottom: 50px;
+}
+.iconscontainer
+{
+	text-align: center;
+	color: white
+}
+
+.compimg
+{
+	word-spacing: 11px	;
+	margin-top: 45px;
+	margin-bottom: 45px;
+}
+.footerfluid
+{
+	color: white;
+	text-align: center;
+	padding-bottom: 25px;
+}
+.footerp{
+	margin-top: 25px
+}
+.social-1{
+	display: block;
+	padding: 0px;
+}
+.social{
+	display: inline-block;
+	padding: 6px;
+	margin: 0 20px;
+	background-color:#FCA000;
+	border-radius: 50%;
+	width: 40px;
+	cursor: pointer;
+}
+.icon{
+	font-size: 25px;
+	color: #333740;
+}
+
+
+@media only screen and (max-width: 991px) {
+	.h1icon{
+		text-align: center;
+		padding-top: 50px;
+	}
+	.bigicon{
+		text-align: center;
+	}
+	.rowmargin
+	{
+		margin-top: 0px;
+	}
+	.compicons{
+		margin-top: 10px;
+	}
+	.social{
+		margin: 4px;
+	}
+	.bigiconimg{
+		width: 250px;
+		height: 250px;
+	}
+	.logoimg
+	{
+		width: 250px;
+		height: 75px;
+	}
+
+}
+
+@media only screen and (max-width: 320px) {
+	li{
+		margin: 2px;
+	}
+
+	.strongstyle
+	{
+		font-size: 12px;
+	}
+	.h4icons{
+		font-size: 16px;
+	}
+}
+
+
+
+
+
+.deneme{
+	display: inline-block;
+	margin: 11px 0;
+}
+.deneme>img{
+	width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
